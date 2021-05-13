@@ -15263,7 +15263,7 @@ var $async$UG=P.T(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 l=t.bD
 s=7
-return P.Y(G.avy(P.jq("http://143.198.109.195:9001/"+a,0,null),P.aN(["content-type","application/json","authorization",b],l,l)),$async$UG)
+return P.Y(G.avy(P.jq("https://api.conoce360.tech/"+a,0,null),P.aN(["content-type","application/json","authorization",b],l,l)),$async$UG)
 case 7:m=d
 l=m
 if(J.ay(C.ah.m6(0,B.pT(U.pM(l.e).c.a.i(0,"charset")).cu(0,l.x),null),"error")==null){l=$.iF()
@@ -15297,7 +15297,7 @@ var $async$UK=P.T(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 k=t.bD
 s=7
-return P.Y(G.aw_(P.jq("http://143.198.109.195:9001/"+b,0,null),C.ah.D1(a,null),P.aN(["content-type","application/json"],k,k)),$async$UK)
+return P.Y(G.aw_(P.jq("https://api.conoce360.tech/"+b,0,null),C.ah.D1(a,null),P.aN(["content-type","application/json"],k,k)),$async$UK)
 case 7:m=d
 switch(m.b){case 200:k=m
 $.iF().a=A.amL(C.ah.m6(0,B.pT(U.pM(k.e).c.a.i(0,"charset")).cu(0,k.x),null))
@@ -15335,7 +15335,7 @@ var $async$akT=P.T(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:p=4
 k=t.bD
 s=7
-return P.Y(G.aw_(P.jq("http://143.198.109.195:9001/"+b,0,null),C.ah.D1(a,null),P.aN(["content-type","application/json","authorization",c],k,k)),$async$akT)
+return P.Y(G.aw_(P.jq("https://api.conoce360.tech/"+b,0,null),C.ah.D1(a,null),P.aN(["content-type","application/json","authorization",c],k,k)),$async$akT)
 case 7:m=e
 switch(m.b){case 200:k=m
 $.iF().a=A.amL(C.ah.m6(0,B.pT(U.pM(k.e).c.a.i(0,"charset")).cu(0,k.x),null))
